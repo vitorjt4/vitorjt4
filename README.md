@@ -42,7 +42,7 @@ I am a Computer engineer grad student <img src="https://media.giphy.com/media/WU
 
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+    
 </div>
 
 
