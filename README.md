@@ -37,7 +37,6 @@ I am a Computer engineer grad student <img src="https://media.giphy.com/media/WU
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjt4)](https://github.com/vitorjt4/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjt4&layout=compact&theme=vision-friendly-dark)](https://github.com/vitorjt4/github-readme-stats)
 
 <div align="center">
