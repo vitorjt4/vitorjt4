@@ -37,13 +37,7 @@ I am a Computer engineer grad student <img src="https://media.giphy.com/media/WU
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjt4&layout=compact&theme=vision-friendly-dark)](https://github.com/vitorjt4/github-readme-stats)
-
-<div align="center">
-    <img src="https://forthebadge.com/images/badges/made-with-crayons.svg" />
-    
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjt4&&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
